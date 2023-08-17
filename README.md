@@ -6,7 +6,7 @@
 
 ### Business problem: 
 
-Here is where you state the business problem you were trying to solve
+Data scientists has gathered a large amount of sales data that includes information about products sold in various stores located across different cities. The goal is to create a special kind of model that can make predictions, helping retailers understand the properties of products and outlets that play crucial roles in increasing sales.
 
 
 ### Data: 
