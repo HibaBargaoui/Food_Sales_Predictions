@@ -33,6 +33,8 @@ For the purpose of visualization and explanation, we have created:
 - A line graph that represents illustrates the sales trend across three distinct locations.
 ![EDA_3](https://github.com/HibaBargaoui/Food_Sales_Predictions/assets/135720154/bbb8a0c3-09b1-479d-8690-53052e95164d)
 The 'OUT027' outlet stands out as the leader, boasting sales exceeding 3500.
+![EDA_4](https://github.com/HibaBargaoui/Food_Sales_Predictions/assets/135720154/d0dae4df-b789-4ae1-ab48-190d60b20a2d)
+Starchy foods are in the forefront in terms of sales.
 
 ## Results
 
