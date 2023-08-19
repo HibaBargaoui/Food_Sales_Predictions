@@ -97,7 +97,6 @@ The outlet located in 'Tier3' holds the top position in terms of sales.
 
 ## Recommendations:
 
-More of your own text here
 
 
 ## Limitations & Next Steps
