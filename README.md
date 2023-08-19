@@ -101,6 +101,10 @@ The outlet located in 'Tier3' holds the top position in terms of sales.
   R2: 0.60
   
 --> To make the best predictions, the Tunned Random Forest Model is chosen with the n_estimators tuned to 200.
+- When assessing the model's performance on the testing set, it is able to account for 60% of the variability in y using x.
+- The Mean Absolute Error (MAE) shows a discrepancy of around 728.09.
+- The Mean Squared Error (MSE) yields a value of 1,091,575.17.
+- The Root Mean Squared Error (RMSE) is calculated to be 1,044.78.
 
 ## Recommendations:
 To enhance the sales of individual products, retailers should consider the following strategies:
