@@ -1,5 +1,5 @@
 # Food_Sales_Predictions
-# Examining methods to enhance sales
+# Examining Data to enhance sales
 
 **Author**: Hiba Bargaoui 
 
