@@ -69,6 +69,16 @@ The outlet located in 'Tier3' holds the top position in terms of sales.
   RMSE: 1,463.02
   
   R2: 0.22
+# Tuned Decision Tree Model:
+- Evaluation for the testing set:
+
+  MAE: 736.88 
+
+  MSE: 1,114,471.12 
+
+  RMSE: 1,055.69 
+
+  R2: 0.60
 ### Here are examples of how to embed images from your sub-folder
 
 
