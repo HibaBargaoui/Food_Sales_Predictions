@@ -93,8 +93,6 @@ The outlet located in 'Tier3' holds the top position in terms of sales.
 #### Tunned Random Forest Model: 
 - Evaluation for the testing set:
 
-
-
 ## Recommendations:
 To enhance the sales of individual products, retailers should consider the following strategies:
 - Prioritize the sale of starchy foods, given their high frequency in demand among customers.
@@ -103,13 +101,7 @@ To enhance the sales of individual products, retailers should consider the follo
   
 By aligning their sales approach with these guidelines, retailers can optimize their efforts to boost overall product sales.
 
-
-## Limitations & Next Steps
-
-More of your own text here
+## For further information
 
 
-### For further information
-
-
-For any additional questions, please contact **email**
+For any additional questions, please contact **bargaoui.hiba42@gmail.com**
