@@ -15,7 +15,8 @@ For this dataset, we have 8523 rows and 12 columns.
 
 ### Data Dictionary:
 <img width="599" alt="Data_Dictionary" src="https://github.com/HibaBargaoui/Food_Sales_Predictions/assets/135720154/68ed84fe-cd37-4a0a-886a-410e1c63b229">
-To prepare this data, the data was cleaned, and the following processes were performed:
+
+In order to get this data ready, we first cleaned it and then carried out the following steps:
 
 ## Exploratory Data Analysis:
 Established a strong foundational understanding of both numeric and categorical columns by:
