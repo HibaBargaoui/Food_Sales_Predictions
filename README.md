@@ -1,4 +1,6 @@
 # Food_Sales_Predictions
+![sales-forecasting](https://github.com/HibaBargaoui/Food_Sales_Predictions/assets/135720154/2ba3400f-85c9-4cf3-b7ef-b5d1a4db341f)
+
 # Examining Data to enhance sales
 
 **Author**: Hiba Bargaoui 
