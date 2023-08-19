@@ -44,6 +44,9 @@ The 'OUT027' outlet stands out as the leader, boasting sales exceeding 3500.
 
 Starchy foods are in the forefront in terms of sales.
 
+![EDA_5](https://github.com/HibaBargaoui/Food_Sales_Predictions/assets/135720154/d9c8591e-f6fb-4350-97ee-b3e1d545cccc)
+
+The outlet located in 'Tier3' holds the top position in terms of sales.
 ## Results
 
 ### Here are examples of how to embed images from your sub-folder
