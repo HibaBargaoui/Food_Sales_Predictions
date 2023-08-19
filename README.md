@@ -33,7 +33,8 @@ To prepare this data, the data was cleaned, and the following processes were per
 - The histogram indicates that the most common weight for products is approximately 12.5.
 - The boxplot shows that there is no outliers.
 
-
+![EDA_2](https://github.com/HibaBargaoui/Food_Sales_Predictions/assets/135720154/e68212d9-b81b-4bff-9a0a-0d7cdafe4592)
+- The graph represents the frequency of 'Low Fat' item. 
   ## Explanatory Data Analysis:
 ## Results
 
