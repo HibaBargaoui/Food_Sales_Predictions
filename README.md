@@ -25,6 +25,7 @@ To prepare this data, the data was cleaned, and the following processes were per
 - Employed barplots for categorical columns.
 --> Established a strong foundational understanding of both numeric and categorical columns through univariate exploratory data analysis (EDA).
 
+![EDA_1](https://github.com/HibaBargaoui/Food_Sales_Predictions/assets/135720154/f1ff044d-e963-4a61-af03-e456d8fadd7e)
 
 
 ## Results
