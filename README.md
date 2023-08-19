@@ -23,6 +23,8 @@ To prepare this data, the data was cleaned, and the following processes were per
 ## Exploratory Data Analysis:
 - Visualized numeric datatype columns with boxplots and histograms.
 - Employed barplots for categorical columns.
+
+
   
 --> Established a strong foundational understanding of both numeric and categorical columns through univariate exploratory data analysis (EDA).
 
