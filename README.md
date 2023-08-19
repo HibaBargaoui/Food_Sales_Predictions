@@ -51,6 +51,7 @@ The outlet located in 'Tier3' holds the top position in terms of sales.
 ## Maching Learning Models:
 # Linear Regression Model: 
 - Evaluation for the testing set:
+  
   MAE: 199,554,574,368.15
   
   MSE: 7,130,647,480,125,906,057,428,992.00
