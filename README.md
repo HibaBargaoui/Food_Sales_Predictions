@@ -49,7 +49,7 @@ Starchy foods are in the forefront in terms of sales.
 The outlet located in 'Tier3' holds the top position in terms of sales.
 
 ## Maching Learning Models:
-# Linear Regression Model: 
+#### Linear Regression Model: 
 - Evaluation for the testing set:
   
   MAE: 199,554,574,368.15
@@ -59,7 +59,7 @@ The outlet located in 'Tier3' holds the top position in terms of sales.
   RMSE: 2,670,327,223,417.74
   
   R2: -2,584,525,618,112,160,256.00
-# Decision Tree Model: 
+#### Decision Tree Model: 
 - Evaluation for the testing set:
 
   MAE: 995.41
@@ -69,7 +69,7 @@ The outlet located in 'Tier3' holds the top position in terms of sales.
   RMSE: 1,463.02
   
   R2: 0.22
-# Tuned Decision Tree Model:
+#### Tuned Decision Tree Model:
 - Evaluation for the testing set:
 
   MAE: 736.88 
