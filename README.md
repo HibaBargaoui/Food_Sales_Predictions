@@ -34,7 +34,7 @@ The graph represents the frequency of 'Low Fat' item.
 ## Explanatory Data Analysis:
 For the purpose of visualization and explanation, we have created:
 - Bar graphs that provide a clear comparison between the categories.
-- A line graph that represents illustrates the sales trend across three distinct locations.
+- A line graph that illustrates the sales trend across three distinct locations.
   
 ![EDA_3](https://github.com/HibaBargaoui/Food_Sales_Predictions/assets/135720154/bbb8a0c3-09b1-479d-8690-53052e95164d)
 
