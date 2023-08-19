@@ -99,6 +99,7 @@ The outlet located in 'Tier3' holds the top position in terms of sales.
   RMSE: 1,044.78
   
   R2: 0.60
+  
 --> To make the best predictions, the Tunned Random Forest Model is chosen with the n_estimators tuned to 200.
 
      When assessing the model's performance on the testing set, it is able to account for 60% of the variability in y using x.
