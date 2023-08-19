@@ -109,6 +109,7 @@ The outlet located in 'Tier3' holds the top position in terms of sales.
      The Mean Squared Error (MSE) yields a value of 1,091,575.17.
 
      The Root Mean Squared Error (RMSE) is calculated to be 1,044.78.
+
 ## Recommendations:
 To enhance the sales of individual products, retailers should consider the following strategies:
 - Prioritize the sale of starchy foods, given their high frequency in demand among customers.
