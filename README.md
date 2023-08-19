@@ -92,23 +92,7 @@ The outlet located in 'Tier3' holds the top position in terms of sales.
 #### Tunned Random Forest Model: 
 - Evaluation for the testing set:
 
-### Here are examples of how to embed images from your sub-folder
 
-
-#### Visual 1 Title
-![sample image](project1_sample_image.png)
-
-> Sentence about visualization.
-
-#### Visual 2 Title
-
-## Model
-
-Describe your final model
-
-Report the most important metrics
-
-Refer to the metrics to describe how well the model would solve the business problem
 
 ## Recommendations:
 
