@@ -21,19 +21,27 @@ To prepare this data, the data was cleaned, and the following processes were per
 Established a strong foundational understanding of both numeric and categorical columns by:
 - Visualizing numeric datatype columns with boxplots and histograms.
 - Employing barplots for categorical columns.
+  
 ![EDA_1](https://github.com/HibaBargaoui/Food_Sales_Predictions/assets/135720154/f1ff044d-e963-4a61-af03-e456d8fadd7e)
+
 - The histogram indicates that the most common weight for products is approximately 12.5.
-- The boxplot shows that there is no outliers.
+- The boxplot shows that there are no outliers.
+  
 ![EDA_2](https://github.com/HibaBargaoui/Food_Sales_Predictions/assets/135720154/e68212d9-b81b-4bff-9a0a-0d7cdafe4592)
-- The graph represents the frequency of 'Low Fat' item.
+
+The graph represents the frequency of 'Low Fat' item.
 
 ## Explanatory Data Analysis:
 For the purpose of visualization and explanation, we have created:
 - Bar graphs that provide a clear comparison between the categories.
 - A line graph that represents illustrates the sales trend across three distinct locations.
+  
 ![EDA_3](https://github.com/HibaBargaoui/Food_Sales_Predictions/assets/135720154/bbb8a0c3-09b1-479d-8690-53052e95164d)
+
 The 'OUT027' outlet stands out as the leader, boasting sales exceeding 3500.
+
 ![EDA_4](https://github.com/HibaBargaoui/Food_Sales_Predictions/assets/135720154/d0dae4df-b789-4ae1-ab48-190d60b20a2d)
+
 Starchy foods are in the forefront in terms of sales.
 
 ## Results
