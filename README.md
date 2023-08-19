@@ -30,8 +30,11 @@ To prepare this data, the data was cleaned, and the following processes were per
 
 ![EDA_1](https://github.com/HibaBargaoui/Food_Sales_Predictions/assets/135720154/f1ff044d-e963-4a61-af03-e456d8fadd7e)
 
-- The histogram represents that majority weight of products are around 12.5.
-- The boxplot shows that there is no outliers. 
+- The histogram indicates that the most common weight for products is approximately 12.5.
+- The boxplot shows that there is no outliers.
+
+
+  ## Explanatory Data Analysis:
 ## Results
 
 ### Here are examples of how to embed images from your sub-folder
