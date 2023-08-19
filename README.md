@@ -100,6 +100,7 @@ To enhance the sales of individual products, retailers should consider the follo
 - Prioritize the sale of starchy foods, given their high frequency in demand among customers.
 - Channel a significant portion of sales efforts through the 'OUT027' outlet, as it has demonstrated leadership in terms of total item outlet sales.
 - Concentrate a considerable share of sales activities on outlets situated in 'Tier3', recognizing their potential for driving substantial sales volumes.
+  
 By aligning their sales approach with these guidelines, retailers can optimize their efforts to boost overall product sales.
 
 
