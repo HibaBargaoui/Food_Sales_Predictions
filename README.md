@@ -98,6 +98,7 @@ pipeline-2__Outlet_Type_Supermarket Type2, pipeline-2__Outlet_Identifier_OUT045 
   R2: 0.55
 
 - Feature importances
+![Importances](https://github.com/HibaBargaoui/Food_Sales_Predictions/assets/135720154/db7f6cdb-7615-4a55-ae41-83b015a8e5a5)
 
 * pipeline-1__Item_MRP, pipeline-2__Outlet_Type_Grocery Store, pipeline-1__Item_Visibility, pipeline-2__Outlet_Identifier_OUT027 and pipeline-1__Item_Weight are the top 5 most important features.
 * pipeline-1__Item_MRP is the most important feature for predicting Item_Outlet_Sales.
