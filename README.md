@@ -63,7 +63,7 @@ The outlet located in 'Tier3' holds the top position in terms of sales.
   R2: -2,584,525,618,112,160,256.00
 
 - Coefficients of the Linear Regression Model
-
+![Coefficients](https://github.com/HibaBargaoui/Food_Sales_Predictions/assets/135720154/3502e6e0-86dc-4a6c-b8c6-5f688f43936d)
 
 pipeline-2__Outlet_Type_Supermarket Type2, pipeline-2__Outlet_Identifier_OUT045 and pipeline-2__Outlet_Identifier_OUT017 are the most impactful features. 
 #### Decision Tree Model: 
