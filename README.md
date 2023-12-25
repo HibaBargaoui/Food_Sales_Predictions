@@ -65,7 +65,8 @@ The outlet located in 'Tier3' holds the top position in terms of sales.
 - Coefficients of the Linear Regression Model
 ![Coefficients](https://github.com/HibaBargaoui/Food_Sales_Predictions/assets/135720154/3502e6e0-86dc-4a6c-b8c6-5f688f43936d)
 
-pipeline-2__Outlet_Type_Supermarket Type2, pipeline-2__Outlet_Identifier_OUT045 and pipeline-2__Outlet_Identifier_OUT017 are the most impactful features. 
+  pipeline-2__Outlet_Type_Supermarket Type2, pipeline-2__Outlet_Identifier_OUT045 and pipeline-2__Outlet_Identifier_OUT017 
+  are the most impactful features. 
 #### Decision Tree Model: 
 - Evaluation for the testing set:
 
@@ -100,11 +101,13 @@ pipeline-2__Outlet_Type_Supermarket Type2, pipeline-2__Outlet_Identifier_OUT045 
 - Feature importances
 ![Importances](https://github.com/HibaBargaoui/Food_Sales_Predictions/assets/135720154/db7f6cdb-7615-4a55-ae41-83b015a8e5a5)
 
-* pipeline-1__Item_MRP, pipeline-2__Outlet_Type_Grocery Store, pipeline-1__Item_Visibility, pipeline-2__Outlet_Identifier_OUT027 and pipeline-1__Item_Weight are the top 5 most important features.
-* pipeline-1__Item_MRP is the most important feature for predicting Item_Outlet_Sales.
-* pipeline-2__Outlet_Type_Grocery Store is the second most important feautre.
-* pipeline-1__Item_Visibility, pipeline-2__Outlet_Identifier_OUT027, pipeline-1__Item_Weight, pipeline-2__Outlet_Type_Supermarket Type3 and pipeline-1__Outlet_Establishment_Year are somewhat important.   
-* The rest of the features are unimportant.
+  pipeline-1__Item_MRP, pipeline-2__Outlet_Type_Grocery Store, pipeline-1__Item_Visibility, pipeline- 
+  2__Outlet_Identifier_OUT027 and pipeline-1__Item_Weight are the top 5 most important features.
+  pipeline-1__Item_MRP is the most important feature for predicting Item_Outlet_Sales.
+  pipeline-2__Outlet_Type_Grocery Store is the second most important feautre.
+  pipeline-1__Item_Visibility, pipeline-2__Outlet_Identifier_OUT027, pipeline-1__Item_Weight, pipeline- 
+  2__Outlet_Type_Supermarket Type3 and pipeline-1__Outlet_Establishment_Year are somewhat important.
+  The rest of the features are unimportant.
 #### Tunned Random Forest Model: 
 - Evaluation for the testing set:
   
