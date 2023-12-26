@@ -99,14 +99,12 @@ The outlet located in 'Tier3' holds the top position in terms of sales.
   R2: 0.55
 
 - Feature importances
-![Importances](https://github.com/HibaBargaoui/Food_Sales_Predictions/assets/135720154/db7f6cdb-7615-4a55-ae41-83b015a8e5a5)
+![Importances](https://github.com/HibaBargaoui/Food_Sales_Predictions/assets/135720154/5da94667-6e8e-4e46-837f-f50b800cf7c7)
 
-  - pipeline-1__Item_MRP, pipeline-2__Outlet_Type_Grocery Store, pipeline-1__Item_Visibility, pipeline- 
-     2__Outlet_Identifier_OUT027 and pipeline-1__Item_Weight are the top 5 most important features.
-  - pipeline-1__Item_MRP is the most important feature for predicting Item_Outlet_Sales.
-  - pipeline-2__Outlet_Type_Grocery Store is the second most important feautre.
-  - pipeline-1__Item_Visibility, pipeline-2__Outlet_Identifier_OUT027, pipeline-1__Item_Weight, pipeline- 
-     2__Outlet_Type_Supermarket Type3 and pipeline-1__Outlet_Establishment_Year are somewhat important.
+  - Item_MRP, Outlet_Type_Grocery Store, Item_Visibility, Outlet_Identifier_OUT027 and Item_Weight are the top 5 most important features.
+  - Item_MRP is the most important feature for predicting Item_Outlet_Sales.
+  - Outlet_Type_Grocery Store is the second most important feautre.
+  - Item_Visibility, Outlet_Identifier_OUT027, Item_Weight, Outlet_Type_Supermarket Type3 and Outlet_Establishment_Year are somewhat important.
   - The rest of the features are unimportant.
 #### Tunned Random Forest Model: 
 - Evaluation for the testing set:
